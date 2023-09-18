@@ -34,6 +34,7 @@ dependencies = [
   'graphlib_backport >= 1.0.3; python_version < "3.9"',
   'bcrypt >= 4.0.1',
   'typer >= 0.9.0',
+  'pysqlite3-binary==0.5.2'
 ]
 
 [tool.black]
